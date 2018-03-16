@@ -8,130 +8,40 @@
 	padding: 0px; 
 }
 
-.profile_page{
-	text-align: left;
+.top-bar{
+    background-color: white;
 }
 
-.analytics{
-	border: black;
+.bottom-bar{
+    padding-top: 60px;
 }
 
-.topbar{
-	background-color: black;
-	color:white;
+.category{
+	border: white 1px solid;
+	border-radius: 50%;
+	height:250px;
+	width:250px;
+    display: inline-block;
 }
 
-h3{
-	font-size: 2.5em;
-}
-.subtitle{
-	font-weight: bold;
-	font-size: 2em;
-	padding-top: 2% ;
-	padding-bottom: 2% ;
+.learn{
+    background-color: #A9FFCF;
 }
 
-#signup_box{
-	background-color:  #003333;
-	margin-bottom: 5%;
-	margin: 0 auto;
+.create{
+    background-color: #a9fffa;
 }
 
-.btn-link {
-	color: white;
-	font-weight: bold;
-	text-decoration: none;
+.love{
+    background-color: #cfa9ff;
 }
 
-.btn-link:hover {
-	color: #6666b2;
-	font-weight: bold;
-	text-decoration: none;
+.rest{
+    background-color: #fdfd96;
 }
 
-.btn-primary{
-	background-color:  #003333;
+.cat-name{
+    margin-top: 100px;
+    font-size: 25px;
 }
 
-.profile_container{
-	padding: 3% 20%;
-}
-
-.userprofile{
-	padding-top: 3%;
-	padding-left: 5%
-}
-
-.clip{
-	margin-bottom: 10%;
-	font-size: 14px;
-}
-
-.new_clip{
-	padding-top: 10%;
-}
-
-#graph{
-	margin-top: 10%;
-}
-
-#top_word{
-	text-align: center;
-}
-
-.postbuttons{
-	color:black;
-	font-size: 10px;
-	font-weight: bold;
-}
-
-.info_buttons{
-	color: black; 
-}
-
-.clip_input{
-	border: none;
-	font-size: 18px;
-    outline: none;
-	box-shadow:none !important;
-
-}
-
-.clip_title{
-	font-weight:bold;
-}
-
-.clip_submit{
-	background-color: white;
-	color: black;
-	border-color:  #DCDCDC;
-}
-
-#clip_divider{
-	text-align: left;
-	margin-left: 15px;
-}
-
-.logo{
-	margin-left: 20px; 
-}
-
-#max-length-note{
-	margin-top: 15%;
-	font-size: 10px;
-	color: #A9A9A9;
-}
-
-.about-content{
-	text-align: left;
-	font-size: 14px;
-}
-
-.about-image{
-	margin: 5% auto; 
-	display: block;
-}
-
-.bottom-about{
-	padding-bottom: 10%;
-}
