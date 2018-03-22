@@ -22,22 +22,23 @@
 	height:250px;
 	width:250px;
     display: inline-block;
+    color:white;
 }
 
 .learn{
-    background-color: #A9FFCF;
+    background-color: #004600;
 }
 
 .create{
-    background-color: #a9fffa;
+    background-color: #000059;
 }
 
 .love{
-    background-color: #cfa9ff;
+    background-color: #8b1a89;
 }
 
 .rest{
-    background-color: #fdfd96;
+    background-color: #EE7600;
 }
 
 .cat-name{
